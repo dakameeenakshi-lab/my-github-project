@@ -1,1 +1,2 @@
 User 2 added updates here
+User1 update: Initial config added
